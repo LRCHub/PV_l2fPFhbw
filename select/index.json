@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "確定一発",
+  "base_artist": "9Lana",
+  "createdAt": "2026-01-14T08:42:45.787736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "確定一発",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/01_確定一発_9Lana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "確定一発",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_確定一発_9Lana.txt"
+    }
+  ]
+}
